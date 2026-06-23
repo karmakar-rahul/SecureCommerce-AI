@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+data/mongodb/
+data/kafka/
+backups/
+
+# ML artifacts
+*.pkl
+*.joblib
+
+# VS Code
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
