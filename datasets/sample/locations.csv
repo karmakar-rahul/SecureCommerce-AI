@@ -1,0 +1,50 @@
+city,state,country,latitude,longitude
+Guwahati,Assam,India,26.1445,91.7362
+Kolkata,West Bengal,India,22.5726,88.3639
+Mumbai,Maharashtra,India,19.0760,72.8777
+Delhi,Delhi,India,28.6139,77.2090
+Bengaluru,Karnataka,India,12.9716,77.5946
+Chennai,Tamil Nadu,India,13.0827,80.2707
+Hyderabad,Telangana,India,17.3850,78.4867
+Pune,Maharashtra,India,18.5204,73.8567
+Ahmedabad,Gujarat,India,23.0225,72.5714
+Jaipur,Rajasthan,India,26.9124,75.7873
+Lucknow,Uttar Pradesh,India,26.8467,80.9462
+Bhubaneswar,Odisha,India,20.2961,85.8245
+Patna,Bihar,India,25.5941,85.1376
+Shillong,Meghalaya,India,25.5788,91.8933
+Agartala,Tripura,India,23.8315,91.2868
+New York,New York,USA,40.7128,-74.0060
+Los Angeles,California,USA,34.0522,-118.2437
+Chicago,Illinois,USA,41.8781,-87.6298
+Toronto,Ontario,Canada,43.6532,-79.3832
+Mexico City,Mexico City,Mexico,19.4326,-99.1332
+London,England,United Kingdom,51.5074,-0.1278
+Manchester,England,United Kingdom,53.4808,-2.2426
+Paris,Île-de-France,France,48.8566,2.3522
+Berlin,Berlin,Germany,52.5200,13.4050
+Amsterdam,North Holland,Netherlands,52.3676,4.9041
+Madrid,Madrid,Spain,40.4168,-3.7038
+Rome,Lazio,Italy,41.9028,12.4964
+Moscow,Moscow,Russia,55.7558,37.6173
+Dubai,Dubai,UAE,25.2048,55.2708
+Doha,Doha,Qatar,25.2854,51.5310
+Riyadh,Riyadh,Saudi Arabia,24.7136,46.6753
+Singapore,Singapore,Singapore,1.3521,103.8198
+Tokyo,Tokyo,Japan,35.6762,139.6503
+Osaka,Osaka,Japan,34.6937,135.5023
+Seoul,Seoul,South Korea,37.5665,126.9780
+Beijing,Beijing,China,39.9042,116.4074
+Shanghai,Shanghai,China,31.2304,121.4737
+Bangkok,Bangkok,Thailand,13.7563,100.5018
+Kuala Lumpur,Selangor,Malaysia,3.1390,101.6869
+Jakarta,Jakarta,Indonesia,-6.2088,106.8456
+Sydney,New South Wales,Australia,-33.8688,151.2093
+Melbourne,Victoria,Australia,-37.8136,144.9631
+Auckland,Auckland,New Zealand,-36.8485,174.7633
+Cape Town,Western Cape,South Africa,-33.9249,18.4241
+Johannesburg,Gauteng,South Africa,-26.2041,28.0473
+Nairobi,Nairobi,Kenya,-1.2921,36.8219
+São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+Buenos Aires,Buenos Aires,Argentina,-34.6037,-58.3816
+Lima,Lima,Peru,-12.0464,-77.0428

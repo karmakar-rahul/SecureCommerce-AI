@@ -34,3 +34,9 @@ Thumbs.db
 
 # Docker
 *.pid
+.pytest_cache/
+.tmp/
+pytest-cache-files-*/
+datasets/synthetic/*.csv
+datasets/synthetic/*.jsonl
+datasets/synthetic/generation_summary.json

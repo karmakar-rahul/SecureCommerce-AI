@@ -1,0 +1,22 @@
+{
+    "normal": {
+        "probability": 0.97,
+        "max_failed_attempts": 2,
+        "country_change_probability": 0.01,
+        "device_change_probability": 0.05
+    },
+
+    "brute_force": {
+        "probability": 0.02,
+        "failed_attempts_range": [10, 40],
+        "country_change_probability": 0.15,
+        "device_change_probability": 0.20
+    },
+
+    "credential_stuffing": {
+        "probability": 0.01,
+        "failed_attempts_range": [5, 15],
+        "country_change_probability": 0.90,
+        "device_change_probability": 0.75
+    }
+}
