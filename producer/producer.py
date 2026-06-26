@@ -26,7 +26,7 @@ def main():
             f"Sent -> {event.event_id} | "
             f"{event.attack_type.value}"
         )
-        time.sleep(0.2)
+        time.sleep(0.01)
 
 if __name__ == "__main__":
     main()

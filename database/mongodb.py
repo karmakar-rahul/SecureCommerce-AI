@@ -1,12 +1,16 @@
 """
-MongoDB Connection
+MongoDB Connection Module
 """
+
 from pymongo import MongoClient
+
 from configs.mongodb_config import MongoConfig
 
 
 class MongoDB:
+
     def __init__(self):
+
         uri = (
             f"mongodb://{MongoConfig.USERNAME}:"
             f"{MongoConfig.PASSWORD}@"
@@ -15,7 +19,9 @@ class MongoDB:
         )
 
         self.client = MongoClient(uri)
+
         self.db = self.client[MongoConfig.DATABASE]
 
-    def get_collection(self, name):
-        return self.db[name]
+    def get_collection(self, collection_name):
+
+        return self.db[collection_name]
